@@ -1,0 +1,30 @@
+C:\Users\aal\OneDrive - BCSYS\Documents\LocalFileApi\obj\Debug\net8.0\LocalFileApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aal\OneDrive - BCSYS\Documents\LocalFileApi\obj\Debug\net8.0\LocalFileApi.AssemblyInfoInputs.cache
+C:\Users\aal\OneDrive - BCSYS\Documents\LocalFileApi\obj\Debug\net8.0\LocalFileApi.AssemblyInfo.cs
+C:\Users\aal\OneDrive - BCSYS\Documents\LocalFileApi\obj\Debug\net8.0\LocalFileApi.csproj.CoreCompileInputs.cache
+C:\Users\aal\OneDrive - BCSYS\Documents\LocalFileApi\obj\Debug\net8.0\LocalFileApi.MvcApplicationPartsAssemblyInfo.cache
+C:\LocalFileApi\obj\Debug\net8.0\LocalFileApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalFileApi\obj\Debug\net8.0\LocalFileApi.AssemblyInfoInputs.cache
+C:\LocalFileApi\obj\Debug\net8.0\LocalFileApi.AssemblyInfo.cs
+C:\LocalFileApi\obj\Debug\net8.0\LocalFileApi.csproj.CoreCompileInputs.cache
+C:\LocalFileApi\obj\Debug\net8.0\LocalFileApi.MvcApplicationPartsAssemblyInfo.cache
+C:\LocalFileApi\bin\Debug\net8.0\appsettings.Development.json
+C:\LocalFileApi\bin\Debug\net8.0\appsettings.json
+C:\LocalFileApi\bin\Debug\net8.0\LocalFileApi.exe
+C:\LocalFileApi\bin\Debug\net8.0\LocalFileApi.deps.json
+C:\LocalFileApi\bin\Debug\net8.0\LocalFileApi.runtimeconfig.json
+C:\LocalFileApi\bin\Debug\net8.0\LocalFileApi.dll
+C:\LocalFileApi\bin\Debug\net8.0\LocalFileApi.pdb
+C:\LocalFileApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\LocalFileApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\LocalFileApi\obj\Debug\net8.0\staticwebassets\msbuild.LocalFileApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\LocalFileApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LocalFileApi.props
+C:\LocalFileApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LocalFileApi.props
+C:\LocalFileApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LocalFileApi.props
+C:\LocalFileApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\LocalFileApi\obj\Debug\net8.0\scopedcss\bundle\LocalFileApi.styles.css
+C:\LocalFileApi\obj\Debug\net8.0\LocalFileApi.dll
+C:\LocalFileApi\obj\Debug\net8.0\refint\LocalFileApi.dll
+C:\LocalFileApi\obj\Debug\net8.0\LocalFileApi.pdb
+C:\LocalFileApi\obj\Debug\net8.0\LocalFileApi.genruntimeconfig.cache
+C:\LocalFileApi\obj\Debug\net8.0\ref\LocalFileApi.dll
